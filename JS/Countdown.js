@@ -1,5 +1,5 @@
 
-var countDown = new Date("Nov 30, 2021 23:00:00").getTime();
+var countDown = new Date("Nov 15, 2021 23:00:00").getTime();
 
 var update = setInterval(function() {
 
